@@ -24,7 +24,7 @@
 
 <!-- Technology Icons -->
 <h3>Current Technology Focus:</h3>
-<img alt="Technologies Icons" src="https://skillicons.dev/icons?i=python,html,css,javascript,mysql,linux">
+<img alt="Technologies Icons" src="https://skillicons.dev/icons?i=python,c,html,css,javascript,mysql,linux">
 
 ##
 
