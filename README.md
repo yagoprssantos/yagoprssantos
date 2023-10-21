@@ -18,19 +18,9 @@
   </ul>
 </p>
 
-<div id="tech">
+<div id="tech" style="display: flex; flex-direction: column;">
   <div style="display: inline-block; vertical-align: top;">
-    <h3>Skills</h3>
-    <a href="https://www.drupal.org/" title="Drupal"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-plain.svg" width="30" height="30" /></a>
-    <a href="https://www.php.net/" title="PHP"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="30" height="30" /></a>
-    <a href="https://getcomposer.org/" title="Composer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="30" height="30" /></a>
-    <a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" /></a>
-    <a href="https://git-scm.com/" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="30" height="30" /></a>
-  </div>
-  
-  <div style="display: inline-block; vertical-align: top;">
-    <h3>Currently Studying</h3>
-    <a href="https://www.docker.com/" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="30" height="30" /></a>
+    <h3>Tools I Use</h3>
     <a href="https://github.com/" title="GitHub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" /></a>
     <a href="https://gitlab.com/" title="GitLab"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30" height="30" /></a>
     <a href="https://www.terraform.io/" title="Terraform"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-plain.svg" width="30" height="30" /></a>
