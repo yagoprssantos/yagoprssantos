@@ -10,7 +10,7 @@
 
 
 <div id="image">
-  <img align="right" src="https://octodex.github.com/images/baracktocat.jpg" width="200">
+  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmUzNmJ1amhnNTU2OHp3MGhkODN3eGoxdDRoc2Rxa3kybGFqbHQ2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OgUorGH0Z75b3unoPA/giphy.gif" alt="Welcome!" height="200"/>
 </div>
 
 
@@ -59,6 +59,6 @@
 </div>
 <br>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yagoprssantos&&theme=gruvbox) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yagoprssantos&hide=Html&&theme=gruvbox) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yagoprssantos&&theme=gruvbox) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yagoprssantos&&theme=ayu_mirage) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yagoprssantos&hide=Html&&theme=ayu_mirage) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yagoprssantos&&theme=ayu_mirage) |
 | :-: | :-: | :-: |
 
