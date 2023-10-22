@@ -11,8 +11,8 @@
 
 <div id="image">
 
-  <img src="laptopLinux.png" height="180"/>
-  <img src="capybara" height="180"/>
+  <img src="assets/laptopLinux.png" height="180"/>
+  <img src="assets/capybara.gif" height="180"/>
 
 </div>
 
