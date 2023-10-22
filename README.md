@@ -11,8 +11,8 @@
 
 <div id="image">
 
-  ![laptopLinux](laptopLinux.png)
-  ![capybara](capybara.png)
+  <img src="laptopLinux.png" height="180"/>
+  <img src="capybara" height="180"/>
 
 </div>
 
