@@ -11,7 +11,7 @@
 
 <div id="image">
 
-  <img src="assets/laptopLinux.png" width="230" align="right"/>
+  <img src="assets/laptopLinux.png" height="170" align="right"/>
   <img src="assets/capybara.gif" height="180" align="right"/>
 
 </div>
