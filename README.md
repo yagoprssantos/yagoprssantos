@@ -18,7 +18,7 @@ disponíveis em https://simpleicons.org/.
  -->
 <div id="links" align="center" width="25">
   <a href="mailto:yagoprs.santoscontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;
-  <a href="https://discord.gg/NbMQUPjHz7"><img src="https://img.shields.io/badge-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> &nbsp;
+  <a href="https://discord.gg/NbMQUPjHz7"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> &nbsp;
 </div>
 
 <!-- Seção de introdução pessoal -->
@@ -39,7 +39,7 @@ Além disso, não utilize as mesmas imagens que eu estou usando aqui. Você pode
 imagens gratuitas pela internet ou criar as suas próprias (como eu fiz).
  -->
 <div id="image">
-  <img src="assets/laptopLinux.gif" height="170" align="right"/>
+  <img src="assets/laptopLinux.gif" height="180" width="140" align="right"/>
   <img src="assets/capybara.gif" height="180" align="right"/>
 </div>
 
