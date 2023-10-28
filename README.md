@@ -39,7 +39,7 @@ Além disso, não utilize as mesmas imagens que eu estou usando aqui. Você pode
 imagens gratuitas pela internet ou criar as suas próprias (como eu fiz).
  -->
 <div id="image">
-  <img src="assets/laptopLinux.gif" height="180" width="140" align="right"/>
+  <!-- <img src="assets/laptopLinux.gif" height="180" width="140" align="right"/> -->
   <img src="assets/capybara.gif" height="180" align="right"/>
 </div>
 
