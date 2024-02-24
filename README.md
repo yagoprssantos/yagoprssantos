@@ -17,8 +17,8 @@ e o "src" para o ícone da rede social que deseja usar. Você pode encontrar tod
 disponíveis em https://simpleicons.org/.
  -->
 <div id="links" align="center" width="25">
-  <a href="mailto:yagoprs.santoscontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;
-  <a href="https://discordapp.com/users/405423872754712586"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> &nbsp;
+  <a href="https://discordapp.com/users/405423872754712586"><img src="https://img.shields.io/badge/chat with me-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> &nbsp;
+  <a href="mailto:yagoprs.santoscontato@gmail.com"><img src="https://img.shields.io/badge/-professional-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;
 </div>
 
 <!-- Seção de introdução pessoal -->
