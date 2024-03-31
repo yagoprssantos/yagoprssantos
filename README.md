@@ -92,11 +92,11 @@ Essa seção é dividida em duas partes: "Eu domino" e "Tenho interesse em apren
     <!-- Deixe o "#" em href para tornar os links não clicáveis -->
     <a href="#"><img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo="></a><br>
+    <a href="#"><img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo="></a>
     <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"></a><br>
     <a href="#"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a><br>
+    <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
     <a href="#"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
