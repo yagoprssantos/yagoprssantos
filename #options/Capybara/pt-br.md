@@ -4,6 +4,9 @@ Sinta-se à vontade para usar este código e criar o seu próprio perfil!
 A única coisa que peço é que deixe o link para este repositório no seu perfil.
 (E claro, substitua as informações com as suas)
 
+Esse não é meu único perfil, existem outros formatos de README que você pode usar nessa mesma
+pasta, em #options. Sinta-se à vontade para explorar e escolher o que mais lhe agradar.
+
 ATENÇÃO: Para que este arquivo funcione, você precisa renomeá-lo para "README.md", sem as aspas.
 Escolha entre as opções de idioma disponíveis e renomeie o arquivo de acordo. Por exemplo, se você
 quiser usar o português, apague o arquivo "en-us.md" e renomeie este arquivo para "README.md".

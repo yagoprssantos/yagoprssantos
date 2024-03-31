@@ -4,6 +4,9 @@ Sinta-se à vontade para usar este código e criar o seu próprio perfil!
 A única coisa que peço é que deixe o link para este repositório no seu perfil.
 (E claro, substitua as informações com as suas)
 
+Esse não é meu único perfil, existem outros formatos de README que você pode usar nessa mesma
+pasta, em #options. Sinta-se à vontade para explorar e escolher o que mais lhe agradar.
+
 ATENÇÃO: Para que este arquivo funcione, você precisa renomeá-lo para "README.md", sem as aspas.
 Escolha entre as opções de idioma disponíveis e renomeie o arquivo de acordo. Por exemplo, se você
 quiser usar o português, apague o arquivo "en-us.md" e renomeie este arquivo para "README.md".
@@ -82,24 +85,36 @@ Essa seção é dividida em duas partes: "Eu domino" e "Tenho interesse em apren
   <div id="skills">
     <!--
     Coloque aqui colocar as habilidades e ferramentas que você já utiliza ou tem mais
-    experiência. Não tem problema colocar muitas, mostre o que você sabe!
+    experiência. Não tem problema colocar muitas,m mas apenas mostre o que você 
+    REALMENTE sabe!
     -->
     <h3>🧠 Eu domino:</h3>
     <!-- Deixe o "#" em href para tornar os links não clicáveis -->
     <a href="#"><img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"></a><br>
+    <a href="#"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a><br>
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
+  </div>
+  
+  <div id="studying" align="center">
+    <!--
+    Coloque aqui as habilidades e ferramentas que você está estudando no momento.
+    Eu recomendo colocar ferramentas que você já tenha um conhecimento básico e que você 
+    esteja buscando aprofundar o seu conhecimento.
+    -->
+    <h3>📖 Estou estudando no momento:</h3>
+    <!-- Deixe o "#" em href para tornar os links não clicáveis -->
     <a href="#"><img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a><br>
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+    <!-- Adicione mais tecnologias que você está estudando no momento aqui -->
   </div>
-  
+
   <div id="interesting">
     <!--
     Coloque aqui as habilidades e ferramentas que você tem interesse em aprender.
@@ -107,13 +122,14 @@ Essa seção é dividida em duas partes: "Eu domino" e "Tenho interesse em apren
     -->
     <h3>📚 Tenho interesse em aprender:</h3>
     <!-- Deixe o "#" em href para tornar os links não clicáveis -->
-    <a href="#"><img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+
   </div>
 </div>
+
 
 <br>
 

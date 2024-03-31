@@ -4,6 +4,9 @@ Feel free to use this code to create your own profile!
 The only thing I ask is that you leave the link to this repository in your profile.
 (and replace the information with yours, of course)
 
+Also this is one of the many ways to create a profile README. I have some more templates in #options,
+so feel free to check them out and choose the one you like the most.
+
 ATTENTION: To make this work, you need to change the name of this file to "README.md", without the quotes.
 Choose the language you want to use and delete the other file. For example, if you want to use English,
 delete the "pt-br.md" file and rename this file to "README.md". And remember to put the README.md file in
