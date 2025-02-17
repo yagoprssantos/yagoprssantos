@@ -72,9 +72,6 @@ e colocar informações mais pessoais, como hobbies, interesses, etc.
     <li>📦 Construindo um repositório para armazenar e construir conhecimento</li>
   </ul>
 </div>
-
-<br>
-
 <!-- Seção de habilidades e ferramentas -->
 <!--
 Coloque aqui as suas habilidades e ferramentas que você utiliza. Você pode colocar quantas
