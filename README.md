@@ -73,6 +73,8 @@ e colocar informações mais pessoais, como hobbies, interesses, etc.
   </ul>
 </div>
 
+<br>
+
 <!-- Seção de habilidades e ferramentas -->
 <!--
 Coloque aqui as suas habilidades e ferramentas que você utiliza. Você pode colocar quantas
