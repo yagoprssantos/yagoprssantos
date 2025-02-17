@@ -43,7 +43,7 @@ Coloque aqui as imagens que você deseja exibir à direita do seu perfil. Você 
 quantas imagens quiser, mas eu recomendo que você não coloque mais do que 2. Você pode
 também alterar o tamanho das imagens, mas eu recomendo que você não altere o tamanho
 vertical das imagens, pois isso pode quebrar o layout do seu perfil.
- 
+
 Além disso, não utilize as mesmas imagens que eu estou usando aqui. Você pode encontrar
 imagens gratuitas pela internet ou criar as suas próprias (como eu fiz).
  -->
@@ -51,7 +51,6 @@ imagens gratuitas pela internet ou criar as suas próprias (como eu fiz).
   <!-- <img src="assets/laptopLinux.gif" height="180" width="140" align="right"/> -->
   <img src="assets/capybara.gif" height="180" align="right"/>
 </div>
-
 
 <!-- Seção de informações pessoais -->
 <!--
@@ -73,7 +72,6 @@ e colocar informações mais pessoais, como hobbies, interesses, etc.
   </ul>
 </div>
 
-
 <!-- Seção de habilidades e ferramentas -->
 <!--
 Coloque aqui as suas habilidades e ferramentas que você utiliza. Você pode colocar quantas
@@ -85,24 +83,42 @@ Essa seção é dividida em duas partes: "Eu domino" e "Tenho interesse em apren
   <div id="skills">
     <!--
     Coloque aqui colocar as habilidades e ferramentas que você já utiliza ou tem mais
-    experiência. Não tem problema colocar muitas, mostre o que você sabe!
+    experiência. Não tem problema colocar muitas,m mas apenas mostre o que você 
+    REALMENTE sabe!
     -->
     <h3>🧠 Eu domino:</h3>
     <!-- Deixe o "#" em href para tornar os links não clicáveis -->
     <a href="#"><img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo="></a>
+    <a href="#"><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"></a><br>
     <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a><br>
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Figma-8C5CFB?style=for-the-badge&logo=figma&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a><br>
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
   </div>
   
+  <div id="studying" align="center">
+    <!--
+    Coloque aqui as habilidades e ferramentas que você está estudando no momento.
+    Eu recomendo colocar ferramentas que você já tenha um conhecimento básico e que você 
+    esteja buscando aprofundar o seu conhecimento.
+    -->
+    <h3>📖 Estou estudando no momento:</h3>
+    <!-- Deixe o "#" em href para tornar os links não clicáveis -->
+    <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c%23&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a><br>
+    <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a><br>
+    <!-- Adicione mais tecnologias que você está estudando no momento aqui -->
+  </div>
+
   <div id="interesting">
     <!--
     Coloque aqui as habilidades e ferramentas que você tem interesse em aprender.
@@ -110,11 +126,12 @@ Essa seção é dividida em duas partes: "Eu domino" e "Tenho interesse em apren
     -->
     <h3>📚 Tenho interesse em aprender:</h3>
     <!-- Deixe o "#" em href para tornar os links não clicáveis -->
-    <a href="#"><img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+
   </div>
 </div>
 
@@ -135,7 +152,7 @@ https://github.com/vn7n24fzkq/github-profile-summary-cards
 -->
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yagoprssantos&&theme=gruvbox) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yagoprssantos&hide=Html&&theme=gruvbox) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yagoprssantos&&theme=gruvbox) |
-| :-: | :-: | :-: |
+| :-------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
 
 <!--
 Bom, é isso! Espero que você tenha gostado do meu perfil e que tenha conseguido criar o
