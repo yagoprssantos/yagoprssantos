@@ -64,7 +64,7 @@ e colocar informações mais pessoais, como hobbies, interesses, etc.
 <div id="aboutme" align="left">
   <h3>✍ Um pouco sobre mim:</h3>
   <ul>
-    <li>🌱 Apaixonado por tecnologia e videogame desde 2018, programando desde 2022</li>
+    <li>🌱 Apaixonado por tecnologia desde 2018, programando desde 2022</li>
     <li>🎓 Atualmente estudante de Ciência da Computação no CEUB</li>
     <li>🛠️ Gosto de explorar várias linguagens, IDEs e SOs diferentes</li>
     <li>🌐 Em busca de conquistar minha carreira na codificação</li>
