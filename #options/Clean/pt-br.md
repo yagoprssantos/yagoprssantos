@@ -10,7 +10,7 @@
 
 🤝&nbsp;&nbsp;&nbsp;Vamos nos conectar no [LinkedIn](https://www.linkedin.com/in/yagoprssantos/) | [Upwork](https://www.upwork.com/freelancers/~012cb2d7d8c8bbe326?mp_source=share) | [Fiverr](https://www.fiverr.com/s/m5EDoyP)
 
-🌍&nbsp;&nbsp;&nbsp;Descubra mais sobre mim em <a href="https://yagoprssantos.dev" target="_blank">yagoprssantos.dev</a>
+🌐&nbsp;&nbsp;&nbsp;Descubra mais sobre mim em <a href="https://yagoprssantos.dev" target="_blank">yagoprssantos.dev</a>
 
 <br>
 

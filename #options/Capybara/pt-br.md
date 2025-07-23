@@ -1,165 +1,37 @@
-<!--
-Olá! Se você está lendo isso, provavelmente teve algum tipo de interesse em meu perfil.
-Sinta-se à vontade para usar este código e criar o seu próprio perfil!
-A única coisa que peço é que deixe o link para este repositório no seu perfil.
-(E claro, substitua as informações com as suas)
-
-Esse não é meu único perfil, existem outros formatos de README que você pode usar nessa mesma
-pasta, em #options. Sinta-se à vontade para explorar e escolher o que mais lhe agradar.
-
-ATENÇÃO: Para que este arquivo funcione, você precisa renomeá-lo para "README.md", sem as aspas.
-Escolha entre as opções de idioma disponíveis e renomeie o arquivo de acordo. Por exemplo, se você
-quiser usar o português, apague o arquivo "en-us.md" e renomeie este arquivo para "README.md".
-Lembre-se também de deixar o arquivo README.md no diretório raiz do seu perfil juntamente com
-a pasta assets para que o GitHub possa reconhecê-lo.
-
-Se tiver alguma dúvida, pode me contatar no Discord, sem problemas.
--->
-
-<!-- Título central -->
-<h1 align="center">Opa! Eu me chamo Yago 👨🏻‍💻 🇧🇷</h1>
-
-<!-- Seção de links para redes sociais ou contato -->
-<!--
-Coloque aqui os links para as suas redes sociais. Altere o "href" para o link que deseja usar
-e o "src" para o ícone da rede social que deseja usar. Você pode encontrar todos os ícones
-disponíveis em https://simpleicons.org/.
- -->
-<div id="links" align="center" width="25">
-  <a href="https://discordapp.com/users/405423872754712586"><img src="https://img.shields.io/badge/converse%20comigo-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> &nbsp;
-  <a href="mailto:yagoprs.santoscontato@gmail.com"><img src="https://img.shields.io/badge/-profissional-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;
+<div align="center">
+  <img src="assets/capybara.gif" height="120" alt="Capybara Coding"/>
+</div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/yagoprssantos/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  <a href="mailto:yagoprs.santoscontato@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~012cb2d7d8c8bbe326">
+    <img src="https://img.shields.io/badge/Upwork-000000?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
+  </a>
+  <a href="https://www.fiverr.com/s/m5EDoyP">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
+  </a>
 </div>
 
-<!-- Seção de introdução pessoal -->
-<!--
-Coloque aqui as suas informações pessoais. Eu recomendo que você faça um texto curto, mas
-que seja o suficiente para que as pessoas saibam quem você é. Seja criativo!
- -->
-<p id="bio"></p>
+## 🤙 Opa, eaê! Como vai?
 
-<!-- Imagens à direita -->
-<!--
-Coloque aqui as imagens que você deseja exibir à direita do seu perfil. Você pode colocar
-quantas imagens quiser, mas eu recomendo que você não coloque mais do que 2. Você pode
-também alterar o tamanho das imagens, mas eu recomendo que você não altere o tamanho
-vertical das imagens, pois isso pode quebrar o layout do seu perfil.
+Sou o **Yago Santos**, desenvolvedor **Full Stack Jr.** e estudante de **Ciência da Computação** apaixonado por criar soluções que fazem diferença!
 
-Além disso, não utilize as mesmas imagens que eu estou usando aqui. Você pode encontrar
-imagens gratuitas pela internet ou criar as suas próprias (como eu fiz).
- -->
-<div id="image">
-  <!-- <img src="assets/laptopLinux.gif" height="180" width="140" align="right"/> -->
-  <img src="assets/capybara.gif" height="180" align="right"/>
+Atuo em projetos corporativos e como freelancer, sempre buscando transformar ideias em código funcional. Adoro trabalhar com tecnologias modernas e estou sempre explorando o mundo dev!
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cs,c,cpp,js,ts,html,css,react,nodejs,mysql,postgresql,firebase,dotnet,aws,gcp,docker,git,gitlab,figma,vscode,visualstudio,neovim,notion,linux,windows,bash,gradle,npm" width="700"/>
 </div>
 
-<!-- Seção de informações pessoais -->
-<!--
-Coloque aqui as suas informações pessoais. Você pode colocar quantas informações quiser,
-mas eu recomendo que você deixe o tamanho da lista proporcional ao tamanho da imagem que
-você colocou ao lado dessa lista.
-
-Aqui, você pode colocar informações como o seu nome, idade, localização, ou fazer como eu
-e colocar informações mais pessoais, como hobbies, interesses, etc.
- -->
-<div id="aboutme" align="left"> 
-  <h3>✍ Um pouco sobre mim:</h3>
-  <ul>
-    <li>🌱 Ainda aprendendo e crescendo na programação</li>
-    <li>🎓 Atualmente estudante de Ciência da Computação</li>
-    <li>🌐 Em busca da minha verdadeira paixão na codificação</li>
-    <li>🖥️ Fascinado por sistemas operacionais</li>
-    <li>📦 Construindo um repositório de código para mostrar meu conhecimento</li>
-  </ul>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yagoprssantos/yagoprssantos/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yagoprssantos/yagoprssantos/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/yagoprssantos/yagoprssantos/output/github-snake.svg" />
+  </picture>
 </div>
-
-<!-- Seção de habilidades e ferramentas -->
-<!--
-Coloque aqui as suas habilidades e ferramentas que você utiliza. Você pode colocar quantas
-habilidades e ferramentas quiser. Eu recomendo colocar em grande quantidade mas não exagere.
-
-Essa seção é dividida em duas partes: "Eu domino" e "Tenho interesse em aprender".
--->
-<div id="tech" align="center">
-  <div id="skills">
-    <!--
-    Coloque aqui colocar as habilidades e ferramentas que você já utiliza ou tem mais
-    experiência. Não tem problema colocar muitas,m mas apenas mostre o que você 
-    REALMENTE sabe!
-    -->
-    <h3>🧠 Eu domino:</h3>
-    <!-- Deixe o "#" em href para tornar os links não clicáveis -->
-    <a href="#"><img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo="></a>
-    <a href="#"><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"></a><br>
-    <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Figma-8C5CFB?style=for-the-badge&logo=figma&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a><br>
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
-  </div>
-  
-  <div id="studying" align="center">
-    <!--
-    Coloque aqui as habilidades e ferramentas que você está estudando no momento.
-    Eu recomendo colocar ferramentas que você já tenha um conhecimento básico e que você 
-    esteja buscando aprofundar o seu conhecimento.
-    -->
-    <h3>📖 Estou estudando no momento:</h3>
-    <!-- Deixe o "#" em href para tornar os links não clicáveis -->
-    <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c%23&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a><br>
-    <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a><br>
-    <!-- Adicione mais tecnologias que você está estudando no momento aqui -->
-  </div>
-
-  <div id="interesting">
-    <!--
-    Coloque aqui as habilidades e ferramentas que você tem interesse em aprender.
-    Aqui eu recomendo que você coloque poucas, mas que você REALMENTE tenha interesse em aprender.
-    -->
-    <h3>📚 Tenho interesse em aprender:</h3>
-    <!-- Deixe o "#" em href para tornar os links não clicáveis -->
-    <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
-
-  </div>
-</div>
-
-<br>
-
-<!-- Seção de estatísticas -->
-<!--
-Aqui eu fiz uma seção de estatísticas para o meu perfil. Você pode fazer uma também, mas
-eu recomendo que você não copie o meu código. Você pode pesquisar por outras formas de
-fazer uma seção de estatísticas para o seu perfil.
-
-Caso esteja se perguntando, sim, existem outras formas de fazer essa mesma seção de
-estatísticas usando tables, mas fiquei com preguiça de fazer isso. Simples assim.
-
-Caso insista em utilizar, você pode alterar o tema das estatísticas e o nome de usuário
-para o seu nome de usuário do GitHub. Você pode encontrar mais temas em
-https://github.com/vn7n24fzkq/github-profile-summary-cards
--->
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yagoprssantos&&theme=gruvbox) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yagoprssantos&hide=Html&&theme=gruvbox) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yagoprssantos&&theme=gruvbox) |
-| :-------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
-
-<!--
-Bom, é isso! Espero que você tenha gostado do meu perfil e que tenha conseguido criar o
-seu próprio perfil. Recomendo seriamente que você não copie o meu código, fazer o seu
-próprio código é uma ótima forma de aprender e de sentir orgulho do seu trabalho.
-
-Mas se você insistir em utilizar, não tem problema, eu não vou te impedir. Só peço que
-você deixe o link para este repositório no seu perfil, é o mínimo que você pode fazer,
-não é mesmo? ;)
--->
